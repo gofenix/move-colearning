@@ -1,6 +1,14 @@
+---
+title: Sui move 案例分析
+---
+
 # Sui move 案例分析
 
 ## Fenix
+
+<!--
+move是高性能公链，这个是一个批注
+-->
 
 ---
 
@@ -11,6 +19,7 @@
 ## Sui: 高性能公链
 
 ![](https://raw.githubusercontent.com/zhenfeng-zhu/pic-go/main/202301101000459.png)
+
 
 ---
 
