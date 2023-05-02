@@ -1,5 +1,5 @@
 {
-  "name": "move",
+  "name": "sui_move_case_study",
   "private": true,
   "scripts": {
     "build": "slidev build",
@@ -7,7 +7,7 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.38.3",
+    "@slidev/cli": "^0.40.16",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   }
