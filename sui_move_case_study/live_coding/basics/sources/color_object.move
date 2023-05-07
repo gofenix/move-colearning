@@ -69,6 +69,7 @@ module basics::color_object {
     }
 }
 
+// 这个是测试函数
 #[test_only]
 module basics::color_objectTest{
     // test_scenario
